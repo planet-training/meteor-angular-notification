@@ -1,0 +1,3 @@
+[submodule "angular-notification"]
+	path = angular-notification
+	url = https://github.com/neoziro/angular-notification.git
